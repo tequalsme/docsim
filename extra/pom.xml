@@ -14,5 +14,13 @@
     </description>
 
     <artifactId>docsim-extra</artifactId>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.timreardon</groupId>
+            <artifactId>docsim-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
