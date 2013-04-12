@@ -4,7 +4,7 @@
 
     <groupId>com.timreardon</groupId>
     <artifactId>docsim</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <description>A simple document similarity finder.</description>
 
