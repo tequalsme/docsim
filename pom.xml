@@ -15,6 +15,12 @@
         <junit.version>4.10</junit.version>
     </properties>
 
+    <scm>
+        <connection>scm:git:git@github.com:tequalsme/docsim.git</connection>
+        <url>scm:git:git@github.com:tequalsme/docsim.git</url>
+        <developerConnection>scm:git:git@github.com:tequalsme/docsim.git</developerConnection>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
