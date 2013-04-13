@@ -11,7 +11,7 @@ import com.timreardon.docsim.model.TokenEntry;
 
 public class MostOccurringPhrasesSimilarity extends AbstractTokenMatchingSimilarity {
     public static final int DEFAULT_PHRASE_SIZE = 3;
-    public static final int DEFAULT_NUM_TOP_TOKENS = 20;
+    public static final int DEFAULT_NUM_TOP_TOKENS = 30;
     public static final int DEFAULT_MATCH_THRESHOLD = 2;
 
     private final int phraseSize;
